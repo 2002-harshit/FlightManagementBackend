@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lg+tW7QUHG7MnAr/FhYX8N6tnPqc2R8H479SRQbZCNE=",
+  "Source": "FlightManagementBackend",
+  "BasePath": "_content/FlightManagementBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
